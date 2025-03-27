@@ -16,7 +16,9 @@ Example: A $120 purchase earns 90 points:
 - Java 21
 - Spring Boot 3.5.0
 - JUnit & Mockito (for testing)
-- Mysql Database 
+- Mysql Database
+
+# API Endpoints
 
 | Method | Endpoint          | Description                        |
 |--------|------------------|------------------------------------|
